@@ -1,0 +1,33 @@
+*{
+    padding-top:10px;
+}
+
+#options{
+ 
+    text-align: center;
+    font-size:170%;
+   font: weight 900px;
+    
+}
+i{
+    padding-right:15px;
+}
+
+a{
+    padding-right:10px;
+    text-decoration: none;
+    color:#AE0A5F;
+}
+main{
+    color:#219EBC;
+    text-align:center;
+}
+b{
+    font-size:200%;
+}
+footer{
+    background-color:#043b7a;
+    color:bisque;
+    text-align:center;
+    height:45px;
+}

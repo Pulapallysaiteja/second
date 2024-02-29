@@ -1,0 +1,39 @@
+*{
+    padding-top:10px;
+}
+
+c{
+    height:max-content;
+}
+#options{
+ 
+    text-align: center;
+    font-size:170%;
+   font: weight 900px;
+    
+}
+i{
+    padding-right:15px;
+}
+
+a{
+    padding-right:10px;
+    text-decoration: none;
+    color:#AE0A5F;
+}
+p{
+    display:flex;
+    background-color:#005F73;
+    color:beige;
+    padding-left:20px;
+    font-size:35px; 
+    text-align:Center; 
+    margin-top: 70px; 
+    margin-bottom:70px;
+}
+footer{
+    background-color:#043b7a;
+    color:bisque;
+    text-align:center;
+    height:45px;
+}

@@ -1,0 +1,18 @@
+*{
+    padding-top:10px;
+}
+
+
+main{
+    color:#005C69;
+    text-align:center;
+}
+b{
+    font-size:200%;
+}
+footer{
+    background-color:#043b7a;
+    color:bisque;
+    text-align:center;
+    height:45px;
+}
